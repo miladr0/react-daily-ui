@@ -20,9 +20,9 @@
     <tbody>
         <tr>
             <td><strong>001</strong></td>
-            <td><img src="./001-sign-up/sample.png"></img></td>
+            <td><img width="200" height="300" src="./001-sign-up/sample.png"></img></td>
             <td>Create a sign-up form</td>
-            <td align="center"><a href="https://bxf12.csb.app/">:white_check_mark: :dolphin: :arrow_right:</a></td>
+            <td align="center"><a href="https://codesandbox.io/s/github/miladr0/react-daily-ui/tree/master/001-sign-up">:white_check_mark: :dolphin: :arrow_right:</a></td>
         </tr>
     </tbody>
 </table>
