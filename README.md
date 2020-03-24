@@ -4,7 +4,6 @@
 
 > A collection of React apps built by [Jack Oliver](http://www.jackoliver.info/react-daily-ui/) and blogged by [Sophia Shoemaker](https://twitter.com/wisecobbler) and the [Fullstack React](https://fullstackreact.com) team.
 >
-> Check out the full [CodePen collection here](http://codepen.io/collection/DoLZRm/).
 
 
 ## Days
